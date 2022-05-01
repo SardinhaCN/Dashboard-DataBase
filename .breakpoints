@@ -3,9 +3,9 @@
     ".replit": [
       {
         "id": "f58e0103-75f1-494e-854e-2b8eda9a2648",
-        "line": 13,
-        "version": 170,
-        "index": 168
+        "line": 1,
+        "version": 226,
+        "index": 0
       }
     ],
     "Modules/Firebase/FireStore.js": [

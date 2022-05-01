@@ -4,9 +4,9 @@
  * Module dependências.
  */
 
-let app = require('../app');
-let debug = require('debug')('sar-anime-mania:server');
-let http = require('http');
+const app = require('../app');
+const debug = require('debug')('sar-anime-mania:server');
+const http = require('http');
 
 /**
  * Obtenha a porta do ambiente e armazene no Express.
