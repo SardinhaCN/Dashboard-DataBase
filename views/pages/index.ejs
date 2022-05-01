@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<%- include('../partials/head'); %>
+  </head>
+	
+  <body>
+    <!-- .site-header -->
+    <header class="site-header">
+		  <%- include('../partials/header'); %>
+	  </header>
+			
+	  <div class="site-body">
+      <% genre.forEach(function(genero) { %>
+        <a class="genre" href="/"><%= genero %></a>
+      <% }); %>
+    </div>
+
+    <!-- .site-footer -->
+		<footer class="site-footer">
+			<%- include('../partials/footer'); %>			
+		</footer>
+	</body>
+</html>

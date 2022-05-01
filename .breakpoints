@@ -1,0 +1,28 @@
+{
+  "files": {
+    ".replit": [
+      {
+        "id": "f58e0103-75f1-494e-854e-2b8eda9a2648",
+        "line": 13,
+        "version": 170,
+        "index": 168
+      }
+    ],
+    "Modules/Firebase/FireStore.js": [
+      {
+        "id": "98be1283-235c-4eb4-bdf6-8a25b8e425ae",
+        "line": 12,
+        "version": 367,
+        "index": 167
+      }
+    ],
+    "Modulos/Firebase/firebase.js": [
+      {
+        "id": "a6b674d8-51db-4728-999a-4dfe2ecd2f5d",
+        "line": 43,
+        "version": 1407,
+        "index": 1023
+      }
+    ]
+  }
+}
